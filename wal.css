@@ -1,0 +1,33 @@
+* {
+
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+body {
+
+  text-align: center;
+  padding: 280px;
+  background: #1d1313;
+  background-size: cover;
+}
+
+button {
+
+  background: url(Screenshot\ 2024-09-29\ 184816.png);
+  color: #000;
+  font-size: 45px;
+  border: 2px rgb(255, 240, 76);
+  border-radius: 10px;
+  padding: 20px 45px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+button:hover {
+
+  background:url(Screenshot\ 2024-09-29\ 183852.png);
+  color: #ffffff;
+}
+
+  
